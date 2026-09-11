@@ -6,8 +6,8 @@
 
 ## Certificate
 - 삼성 SW역량테스트 B형 (Profesional) (2026.03.28)
-- OPIc IH
 - 정보처리기사 (2026.09.11)
+- OPIc IH
 - ADsP (2026.06.05)
 - SQLD (2026.06.19)
 <!--
