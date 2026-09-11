@@ -19,6 +19,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asded3563)](https://solved.ac/asded3563/)
 
 ## Achievement
+- SSAFY 1학기 성적 우수상
+- SSAFY 1학기 관통 프로젝트 최우수상 (yumyum)
+- SSAFY 2학기 공통 프로젝트 우수상 (주차바로)
 - 전략적 팀 전투 시즌13 챌린저 1275점 (#85) <img src="https://i.namu.wiki/i/ELjMIbhPY8bTdcaXD3XT0kHiknPMfqvATOl7zPMCESU6H4Nsit3iaKnuYpycdvq46utrS5kxpVTg383gJmWY3Q.webp" width="36" align="absmiddle"/>
 <!--## Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
