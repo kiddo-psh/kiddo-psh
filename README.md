@@ -1,47 +1,26 @@
-## 안녕하세요! 박시현입니다.🫰
+### Sihyeon Park (박시현)
 
-## Education
-- 경희대학교 생체의공학과 (2018.03 ~ 2024.02)
-- 삼성청년SW·AI아카데미 15기 (2026.01 ~)
+Backend engineer working on AI pipelines
 
-## Certificate
-- 삼성 SW역량테스트 B형 (Profesional) (2026.03.28)
-- 정보처리기사 (2026.09.11)
-- OPIc IH (2025.09.17)
-- ADsP (2026.06.05)
-- SQLD (2026.06.19)
-<!--
-## Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
--->
-## Solved.ac Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asded3563)](https://solved.ac/asded3563/)
+I turn problems into data and code, and I try to leave a way to check the result. In recent work I built parking events from camera footage, chose which AI analyses to run from a user's records, and wired account state to real screens. I'm looking for my next role — email me at kiddo.psh@gmail.com.
 
-## Achievement
-- SSAFY 1학기 성적 우수상
-- SSAFY 1학기 관통 프로젝트 최우수상 (yumyum)
-- SSAFY 2학기 공통 프로젝트 우수상 (주차바로)
-- 전략적 팀 전투 시즌13 챌린저 1275점 (#85) <img src="https://i.namu.wiki/i/ELjMIbhPY8bTdcaXD3XT0kHiknPMfqvATOl7zPMCESU6H4Nsit3iaKnuYpycdvq46utrS5kxpVTg383gJmWY3Q.webp" width="36" align="absmiddle"/>
-<!--## Skills
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
--->
+**Projects**
 
+- [yumyum](https://kiddo-psh.github.io/projects/yumyum/) — LLM/VLM health coaching; I tested a VLM design with a custom eval set and ran only the agents each record needed
+- [주차바로](https://kiddo-psh.github.io/projects/baro/) — a parking prototype that takes a camera stream to a violation event, then a move request and a recheck
+- [ai-dev-harness](https://github.com/kiddo-psh/ai-dev-harness) — a guardrail kit (rules, hooks, CI, AgentOps) for tracing and checking AI-assisted development
+- [꾸기](https://kiddo-psh.github.io/projects/kkugi/) — an AI health coach that drafts food recognition first and uses corrections as training data (in progress)
+- [feelm](https://kiddo-psh.github.io/projects/feelm/) — a movie recommendation service; I handled auth failure cases and connected mock screens to real APIs
+- [agentpedia](https://github.com/kiddo-psh/agentpedia) — a catalog of agent-era practices, with prompts and apply kits that agents can fetch over MCP
 
+**Writing**
 
-<!--
-**kiddo-psh/kiddo-psh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Semaphores and workers — how to cap total LLM calls](https://kiddo-psh.github.io/posts/semaphore-per-worker/)
+- [Redis atomicity — can INCR alone limit concurrent calls?](https://kiddo-psh.github.io/posts/redis-incr-race/)
+- [Is async def enough to handle many requests?](https://kiddo-psh.github.io/posts/async-def-blocking-io/)
+- [Choosing a retry policy by experiment](https://kiddo-psh.github.io/posts/retry-policy-experiment/)
+- [Timeouts and deadlines — keeping a 5-second budget across servers](https://kiddo-psh.github.io/posts/timeout-deadline/)
 
-Here are some ideas to get you started:
+**Links**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Blog](https://kiddo-psh.github.io) · [Portfolio](https://kiddo-psh.github.io/portfolio/) · [Email](mailto:kiddo.psh@gmail.com)
